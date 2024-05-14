@@ -30,7 +30,8 @@ Saya tidak memiliki siapa pun yang mengajari saya, jadi saya belajar secara otod
 
 -   :hammer_and_pick: **__Focused on__**; <!--Cracking / Reversing /--> Programming
 -   :pencil2: **__Learning__**; <!--Morse Code / C ++--> Python
--   :indonesia: **__Country__**; <!--Country ++--> Indonesia 🇮🇩
+-   :indonesia: **__Country__**; <!--Country ++--> Indonesia/Lampung 🇮🇩
+-   :1234: **__Age__**; <!--Age ++--> 19 Year
 -   :seedling: **Goal**; Find an idea for a project.
 -   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) --> Watch Anime / Read Manhwa|Manga / Listen to Music /sleeping.
 
@@ -40,15 +41,6 @@ Saya tidak memiliki siapa pun yang mengajari saya, jadi saya belajar secara otod
 [<img src="https://github-readme-stats.vercel.app/api?username=xditya&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="100%">](https://github.com/xditya)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=xditya&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">](https://github.com/xditya)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=arfin03&layout=compact&theme=midnight-green&hide=Css)](https://github.com/arfin03)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=xditya)
-
-
-```python
-Name = "Maou Arfin"
-State = "Indonesia"
-Country = "🇮🇩"
-```
 
 ## My Contacts 
 
