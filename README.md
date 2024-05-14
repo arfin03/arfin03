@@ -30,6 +30,7 @@ Saya tidak memiliki siapa pun yang mengajari saya, jadi saya belajar secara otod
 
 -   :hammer_and_pick: **__Focused on__**; <!--Cracking / Reversing /--> Programming
 -   :pencil2: **__Learning__**; <!--Morse Code / C ++--> Python
+-   :indonesia: **__Country__**; <!--Country ++--> Indonesia 🇮🇩
 -   :seedling: **Goal**; Find an idea for a project.
 -   :heart: **Hobbies**;<!-- [OSU Player](https://osu.ppy.sh/users/26126568) --> Watch Anime / Read Manhwa|Manga / Listen to Music /sleeping.
 
