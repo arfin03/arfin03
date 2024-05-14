@@ -7,14 +7,14 @@
 <br><br>
 <div align="right">
 
-**SOMAN** _!_ 
-``knowledge? ★ ᶻ 𝘇 𐰁``
+**SO WHY BRO** _!_ 
+``Do you miss me 😁?? ★ ᶻ 𝘇 𐰁``
 
 
-I had no one to teach me, so I am self-taught and have learned a lot, but I feel I didn't learn enough. Now I'm trying to figure out something new to do.
+Saya tidak memiliki siapa pun yang mengajari saya, jadi saya belajar secara otodidak dan telah belajar banyak, tetapi saya merasa saya belum cukup belajar. Sekarang saya mencoba mencari sesuatu yang baru untuk dilakukan.
 
 
-``╰﹒bye bye, 🍓﹗``
+``╰﹒bye bye, 🤫﹗``
 
 </div>
 
