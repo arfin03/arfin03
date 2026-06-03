@@ -11,7 +11,7 @@
 ``Do you miss me 😁?? ★ ᶻ 𝘇 𐰁``
 
 
-Saya tidak memiliki siapa pun yang mengajari saya, jadi saya belajar secara otodidak dan telah belajar banyak, tetapi saya merasa saya belum cukup belajar. Sekarang saya mencoba mencari sesuatu yang baru untuk dilakukan.
+I didn't have anyone to teach me, so I'm self-taught and have learned a lot, but I feel like I haven't learned enough. Now I try to find something new to do.
 
 
 ``╰﹒bye bye, 🤫﹗``
