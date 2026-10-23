@@ -59,8 +59,8 @@ I didn't have anyone to teach me, so I'm self-taught and have learned a lot, but
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Arfin03-chi&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=false)
-![trophy](https://github-profile-trophy.vercel.app/?username=nero-chi&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+![stats](https://github-readme-stats.vercel.app/api?username=Arfin03&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=Arfin03&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 
 
 
