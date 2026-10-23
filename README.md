@@ -40,6 +40,11 @@ I didn't have anyone to teach me, so I'm self-taught and have learned a lot, but
 
 [<img src="https://github-readme-stats.vercel.app/api?username=arfin03&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="100%">](https://github.com/arfin03)[<img src="https://github-readme-streak-stats.herokuapp.com/?user=arfin03&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">](https://github.com/arfin03)
 
+<a href="https://github.com/arfin03">
+  <img src="https://github-readme-streak-stats.deno.dev/?user=arfin03&theme=chartreuse-dark&hide_border=true&bg_color=000000" width="100%" />
+</a>
+
+
 ## My Contacts 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArfinVoldigoads)
